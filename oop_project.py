@@ -7,3 +7,5 @@ Dave.getBalance()
 Sera.getBalance()
 
 Sera.deposite(500)
+
+Dave.withdraw(10000)
